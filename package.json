@@ -1,0 +1,30 @@
+{
+  "name": "mm_lib_opensource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C00MAR/MM_lib_openSource.git"
+  },
+  "author": "C00MAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C00MAR/MM_lib_openSource/issues"
+  },
+  "homepage": "https://github.com/C00MAR/MM_lib_openSource#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0"
+  }
+}
